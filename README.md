@@ -35,17 +35,14 @@ The objective of this analysis was to understand product-level sales performance
 ## Project Visualizations
 
 ### Total Sales Analysis
-![Total Sales](<img width="1634" height="776" alt="Total Sales" src="https://github.com/user-attachments/assets/666032c9-e18a-4878-ba10-eaa678883918" />
-)
+![Total Sales](Total%20Sales.PNG)
 
 ### Pivot Table
-![Pivot Table](<img width="1138" height="772" alt="Povit Tabel" src="https://github.com/user-attachments/assets/64dbc20b-5cb1-49ae-92f9-bacd03351c8d" />
-)
+![Pivot Table](Povit%20Tabel.PNG)
 
 ### Monthly Sales
-![Monthly Sales](<img width="1654" height="681" alt="Monthly sales line charts" src="https://github.com/user-attachments/assets/cfc6ff90-538d-47d4-b2e0-6ea3086776ec" />
-)
+![Monthly Sales](Montly%20sales.PNG)
 
 ### Monthly Sales Trend
-![Monthly Trend](<img width="1654" height="695" alt="Montly sales" src="https://github.com/user-attachments/assets/f3daeed5-86ea-4525-bd34-d5171271b365" />
-)
+![Monthly Trend](Monthly%20sales%20line%20charts.PNG)
+
