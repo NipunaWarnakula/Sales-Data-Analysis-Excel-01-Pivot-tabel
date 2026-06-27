@@ -1,5 +1,3 @@
-# Sales-Data-Analysis-Excel-01-Pivot-tabel
-Sales Data Analysis using Microsoft Excel. Created pivot tables and monthly sales charts to analyze sales performance.
 # Sales Data Analysis Project
 
 A comprehensive data analysis project conducted using Microsoft Excel to evaluate and interpret sales performance metrics. The project focused on transforming raw data into actionable insights through structured cleaning, aggregation, and visualization techniques.
